@@ -1,6 +1,8 @@
+import "../styles/index.scss"
+
 function Home() {
   return(
-    <div>
+    <div className="root">
       
     </div>
   )
