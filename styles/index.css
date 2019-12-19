@@ -1,10 +1,37 @@
 .card {
-    border-radius: 4px;
-    margin: 30px;
+    border-radius: 5px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 30px;
+    border: solid #ff4d4f;
+}
+.card:hover {
+    border: solid #ff7875;
 }
 
 .avatar {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     margin: 20px;
+    border: solid #ff4d4f;
+}
+.avatar:hover {
+    border: solid #ff7875;
+}
+
+.icon {
+    color: #ff4d4f;
+    font-size: 25px;
+    margin: 5px;
+}
+.icon:hover {
+    color: #ff7875;
+}
+
+.download-cv-button {
+    font-weight: 700;
+}
+
+.card-item {
+    margin: 10px;
 }

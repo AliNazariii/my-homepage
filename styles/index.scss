@@ -1,12 +1,13 @@
 .root {
     display: flex;
     justify-content: center;
-    background-color: #ccc;
+    background-color: #000000;
     padding: 40px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .my-layout {
-    width: 1300px;
+    width: 1350px;
 }
 
 .header {
@@ -16,24 +17,30 @@
 
 .header-left-side {
     display: flex;
+    align-items: center;
 }
 .header-texts {
     display: block;
     margin: 30px;
 }
 .my-name {
-    font-size: 40px;
+    font-size: 35px;
+    color: white;
+    font-weight: 700;
 }
 .my-work {
-    font-size: 30px;
+    font-size: 25px;
+    color: white;
+    margin-top: -20px;
+    font-weight: 500;
+}
+.social-networks {
+    margin-top: -5px;
 }
 .header-right-side {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-.download-cv-button {
-    border: dotted;
 }
 
 
@@ -41,9 +48,22 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
 }
+.card-title {
+    font-weight: 700;
+}
+.card-paragraph {
+    font-weight: 500;
+}
 .left-side {
     grid-column: 1;
 }
 .right-side {
     grid-column: 2;
+}
+
+.footer {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    color: white;
 }
