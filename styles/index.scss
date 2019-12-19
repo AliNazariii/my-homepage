@@ -1,8 +1,49 @@
 .root {
     display: flex;
     justify-content: center;
+    background-color: #ccc;
+    padding: 40px;
 }
 
-.a {
-    width: 200px;
+.my-layout {
+    width: 1300px;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.header-left-side {
+    display: flex;
+}
+.header-texts {
+    display: block;
+    margin: 30px;
+}
+.my-name {
+    font-size: 40px;
+}
+.my-work {
+    font-size: 30px;
+}
+.header-right-side {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.download-cv-button {
+    border: dotted;
+}
+
+
+.boxes {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.left-side {
+    grid-column: 1;
+}
+.right-side {
+    grid-column: 2;
 }
