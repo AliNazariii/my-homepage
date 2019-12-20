@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     background-color: #000000;
-    padding: 40px;
+    padding: 20px;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -66,4 +66,21 @@
     display: flex;
     justify-content: center;
     color: white;
+}
+
+@media only screen and (max-width: 1050px) {
+    .boxes {
+        display: block;
+    }
+    .header {
+        display: block;
+    }
+    .header-left-side {
+        display: block;
+        text-align: center;
+    }
+    .header-texts {
+        margin: 10px;
+        margin-bottom: 30px;
+    }
 }

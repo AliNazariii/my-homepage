@@ -41,19 +41,37 @@ function Home() {
             <Card className="card">
               <h2 className="card-title">Education</h2>
               <p className="card-paragraph">
-                I am Ali Nazari. A 21 years old student that study Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic). I was born in Tehran. 
+                <div className="card-item">
+                  <Icon className="card-item" type="read" theme="filled" /> <b>B.Sc. Computer Engineering</b> - Amirkabir University of Technology (2017 - Present)
+                  <br /> GPA: 16.53/20
+                </div>
+                <div className="card-item">
+                  <Icon className="card-item" type="read" theme="filled" /> <b>Diploma Mathematics</b> - Alborz High School (2013 - 2017)
+                  <br /> GPA: 19.86/20
+                </div>
               </p>
             </Card>
             <Card className="card">
-              <h2 className="card-title">Work Experiences</h2>
+              <h2 className="card-title">Work and Volunteer Experiences</h2>
               <p className="card-paragraph">
-                I am Ali Nazari. A 21 years old student that study Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic). I was born in Tehran. 
+                <div className="card-item">
+                  <Icon className="card-item" type="setting" theme="filled" /> <b>Chairman (President)</b> - <a href="http://ceit-ssc.ir/">Students' Scientific Chapter of AUT-CE</a> (March 2019 - March 2020)
+                  <br /> I was elected as a member and head of the management board by students of CE Department of Amirkabir University in March 2019.
+                </div>
+                <div className="card-item">
+                  <Icon className="card-item" type="setting" theme="filled" /> <b>UI/UX Design Intern</b> - <a href="https://daneshkar.net/">Daneshkar Group</a> (March 2018 - June 2018)
+                  <br /> I started to read some books related to user experience and also work with some prototyping tools like Adobe XD and Axure PR.
+                </div>
               </p>
             </Card>
             <Card className="card">
-              <h2 className="card-title">Other Experiences</h2>
+              <h2 className="card-title">Projects</h2>
               <p className="card-paragraph">
-                I am Ali Nazari. A 21 years old student that study Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic). I was born in Tehran. 
+                <div className="card-item">
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">AUT ICPC Website</a></b> (Summer 2019)
+                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
+                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                </div>
               </p>
             </Card>
             <Card className="card">
@@ -67,9 +85,9 @@ function Home() {
             <Card className="card">
               <p className="card-paragraph">
                 <Icon className="card-item" type="environment" /> Tehran, Iran
-                <br /><Icon className="card-item" type="mail" theme="filled" /> Main:<a href="mailto:ali_nazari_ir@hotmail.com"> ali_nazari_ir@hotmail.com</a>
-                <br /><Icon className="card-item" type="mail" theme="filled" /><a href="mailto:ali.nazari@aut.ac.ir"> ali.nazari@aut.ac.ir</a>
-                <br /><Icon className="card-item" type="phone" /> +98-9212812589
+                <br /><Icon className="card-item" type="mail" theme="filled" /> <a href="mailto:ali_nazari_ir@hotmail.com"> ali_nazari_ir@hotmail.com</a>
+                {/* <br /><Icon className="card-item" type="mail" theme="filled" /><a href="mailto:ali.nazari@aut.ac.ir"> ali.nazari@aut.ac.ir</a> */}
+                <br /><Icon className="card-item" type="phone" theme="filled" /> +98-9212812589
                 <br /><Icon className="card-item" type="link" /><a href="http://ali-nazari.ir"> ali-nazari.ir</a>
                 {/* <br /><Icon type="mail" theme="filled" /><a href="mailto:ali.nazari.porfosor2@gmail.com"> ali.nazari.porfosor2@gmail.com</a> */}
               </p>
@@ -90,22 +108,22 @@ function Home() {
                 <div className="card-item">
                   <Icon type="double-right" />
                   <b> Programming Languages:</b>  
-                  <br />&emsp;Python, JavaScript, Java, C
+                  <br />&emsp;&emsp;Python, JavaScript, Java, C
                 </div>
                 <div className="card-item">
                   <Icon type="double-right" />
                   <b> Web and Application Development:</b>  
-                  <br />&emsp;ReactJS, HTML, CSS, NEXT.JS, SASS
+                  <br />&emsp;&emsp;ReactJS, HTML, CSS, NEXT.JS, SASS
                 </div>
                 <div className="card-item">
                   <Icon type="double-right" />  
                   <b> Database Systems:</b>  
-                  <br />&emsp;MySQL
+                  <br />&emsp;&emsp;MySQL
                 </div>
                 <div className="card-item">
                   <Icon type="double-right" />
                   <b> Miscellaneous:</b>  
-                  <br />&emsp;Git, LATEX, ...
+                  <br />&emsp;&emsp;Git, LATEX, ...
                 </div>
                 
 
