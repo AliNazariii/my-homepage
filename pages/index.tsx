@@ -72,6 +72,36 @@ function Home() {
                   <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
                   <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
                 </div>
+                <div className="card-item">
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">Elevator</a></b> (Autumn 2018)
+                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
+                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                </div>
+                <div className="card-item">
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">ProgViz</a></b> (Summer 2018)
+                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
+                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                </div>
+                <div className="card-item">
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">Game of Tanks</a></b> (Summer 2018)
+                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
+                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                </div>
+                <div className="card-item">
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">JDM (Java Download Manager)</a></b> (Spring 2018)
+                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
+                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                </div>
+                <div className="card-item">
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">Battle Ship</a></b> (Spring 2018)
+                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
+                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                </div>
+                <div className="card-item">
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">Hangman</a></b> (Autumn 2017)
+                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
+                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                </div>
               </p>
             </Card>
             <Card className="card">
@@ -108,7 +138,7 @@ function Home() {
                 <div className="card-item">
                   <Icon type="double-right" />
                   <b> Programming Languages:</b>  
-                  <br />&emsp;&emsp;Python, JavaScript, Java, C
+                  <br />&emsp;&emsp;Python, JavaScript, Java, C, Verilog, VHDL
                 </div>
                 <div className="card-item">
                   <Icon type="double-right" />
