@@ -73,14 +73,17 @@ function Home() {
                   <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
                 </div>
                 <div className="card-item">
-                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">Elevator</a></b> (Autumn 2018)
-                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
-                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Elevator">Elevator</a></b> (Autumn 2018)
+                  <br /> It was the final project of our Logical Cicuit course at AUT. 
+                  <br />First, we think as a group to design an efficient FSM (finite state machine) for movement and also the management of the elevator. Finally, we implement it in Verilog.
+                  <br /> <a href="https://github.com/AliNazariii/Elevator">Here</a> is some more information about it.
                 </div>
                 <div className="card-item">
-                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">ProgViz</a></b> (Summer 2018)
-                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
-                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/progviz">ProGViz</a></b> (Summer 2018)
+                  <br /> First I should say that this project was failed but I have done my tasks as a client-side developer whose task was to develop a web based application. I developed it just by HTML and CSS and at the end I create a desktop application by integrating Electron.JS.
+                  <br /> ProGViz is a cross-platform graph-visualization desktop-application for visualizing well-known graphical representations of computer program source code such as CFGs, PDGs, ASTs, etc.
+                  <br /> It was an internal project by a group of students of Amirkabir University of Technology, as a sub-project of the PhD thesis of <a href="http://linkedin.com/in/smghaffarian">Seyed Mohammad Ghaffarian</a>. 
+                  <br /> <a href="https://github.com/AliNazariii/progviz">Here</a> is some more information about our development process.
                 </div>
                 <div className="card-item">
                   <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">Game of Tanks</a></b> (Summer 2018)
