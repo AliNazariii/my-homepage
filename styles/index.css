@@ -36,3 +36,10 @@
     margin: 10px;
     /* font-size: 17px; */
 }
+
+a {
+    color: #ff4d4f;
+}
+a:hover {
+    color: #ff7875;
+}
