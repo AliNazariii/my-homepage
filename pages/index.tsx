@@ -86,24 +86,25 @@ function Home() {
                   <br /> <a href="https://github.com/AliNazariii/progviz">Here</a> is some more information about our development process.
                 </div>
                 <div className="card-item">
-                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">Game of Tanks</a></b> (Summer 2018)
-                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
-                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Game-Of-Tanks">Game of Tanks</a></b> (Summer 2018)
+                  <br /> A 2D java game containing both single player & multi player modes. Player spawns with a tank and its mission is to eliminate all enemies on the map.
+                  <br /> The project is based on Buffer-Strategy implementation. It was our Advanced Programming final project and I implemented it with <a href="https://github.com/Amirhossein-Hediehloo">AmirHosein Hediehloo</a>.
+                  <br /> <a href="https://github.com/AliNazariii/Game-Of-Tanks">Here</a> is some more information about our development process.
                 </div>
                 <div className="card-item">
-                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">JDM (Java Download Manager)</a></b> (Spring 2018)
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Download-Manager">JDM (Java Download Manager)</a></b> (Spring 2018)
                   <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
-                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                  <br /> <a href="https://github.com/AliNazariii/Download-Manager">Here</a> is some more information about our development process.
                 </div>
                 <div className="card-item">
-                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">Battle Ship</a></b> (Spring 2018)
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Battle-Ship-Game">Battle Ship</a></b> (Spring 2018)
                   <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
-                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                  <br /> <a href="https://github.com/AliNazariii/Battle-Ship-Game">Here</a> is some more information about our development process.
                 </div>
                 <div className="card-item">
-                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">Hangman</a></b> (Autumn 2017)
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Hangman-Game">Hangman</a></b> (Autumn 2017)
                   <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
-                  <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
+                  <br /> <a href="https://github.com/AliNazariii/Hangman-Game">Here</a> is some more information about our development process.
                 </div>
               </p>
             </Card>
