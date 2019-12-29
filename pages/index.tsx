@@ -1,4 +1,5 @@
 import { Button, Card, Avatar, Icon } from 'antd'
+import Head from 'next/head'
 import "../styles/index.scss"
 import "antd/dist/antd.css";
 import "../styles/index.css"
@@ -6,6 +7,9 @@ import "../styles/index.css"
 function Home() {
   return(
     <div className="root">
+      <Head>
+        <title>Ali Nazari</title>
+      </Head>
       <div className="my-layout">
         <div className="header">
           <div className="left-side header-left-side">
@@ -68,8 +72,13 @@ function Home() {
               <h2 className="card-title">Projects</h2>
               <p className="card-paragraph">
                 <div className="card-item">
+                  <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://ali-nazari.ir/">My Homepage</a></b> (Winter 2019)
+                  <br /> I developed this website as a homepage for myself in my free time.
+                  <br /> <a href="https://github.com/AliNazariii/my-homepage">Here</a> you can see my repository for this project.
+                </div>
+                <div className="card-item">
                   <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">AUT ICPC Website</a></b> (Summer 2019)
-                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
+                  <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>.
                   <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
                 </div>
                 <div className="card-item">
