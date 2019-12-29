@@ -200,14 +200,22 @@ function Home() {
                   <b> Miscellaneous:</b>  
                   <br />&emsp;&emsp;Git, LATEX, ...
                 </div>
-                
-
               </p>
             </Card>
             <Card className="card">
               <h2 className="card-title">Languages</h2>
               <p className="card-paragraph">
-                I am Ali Nazari. A 21 years old student
+                <div className="card-item">
+                  <Icon type="message" />
+                  <b> Persian: </b> Native 
+                </div>
+                <div className="card-item">
+                  <Icon type="message" />
+                  <b> English: </b> Limited working proficiency 
+                </div>
+                <div className="card-item">
+                  Also Familiar with Arabic
+                </div>
               </p>
             </Card>
           </div>
