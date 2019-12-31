@@ -186,13 +186,13 @@ function Home() {
                 </div>
                 <div className="card-item">
                   <Icon type="double-right" />  
-                  <b> Database Systems:</b>  
-                  <br />&emsp;&emsp;MySQL
+                  <b> Graphic Design:</b>  
+                  <br />&emsp;&emsp;Adobe Photoshop, Adobe Illustrator, Adobe XD
                 </div>
                 <div className="card-item">
                   <Icon type="double-right" />
                   <b> Miscellaneous:</b>  
-                  <br />&emsp;&emsp;Git, LATEX, ...
+                  <br />&emsp;&emsp;Git, MySQL, LATEX, ...
                 </div>
               </p>
             </Card>
