@@ -22,7 +22,7 @@ function Project() {
           </div>
           <div className="card-item">
             <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">AUT ICPC Website</a></b> (Summer 2019)
-            <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>.
+            <br /> I started the front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>.
             <br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
             <br />
             <Card className="tech-item"><p className="tech-item-text">React</p></Card>
@@ -32,7 +32,7 @@ function Project() {
           </div>
           <div className="card-item">
             <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Elevator">Elevator</a></b> (Autumn 2018)
-            <br /> It was the final project of our Logical Cicuit course at AUT. 
+            <br /> It was the final project of our Logical Circuit course at AUT. 
             <br />First, we think as a group to design an efficient FSM (finite state machine) for movement and also the management of the elevator.
             <br /> <a href="https://github.com/AliNazariii/Elevator">Here</a> is some more information about it.
             <br />
@@ -41,9 +41,9 @@ function Project() {
           </div>
           <div className="card-item">
             <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/progviz">ProGViz</a></b> (Summer 2018)
-            <br /> First I should say that this project was failed but I have done my tasks as a client-side developer whose task was to develop a web based application. I developed it just by HTML and CSS and at the end I create a desktop application by integrating Electron.JS.
+            <br /> First I should say that this project was failed but I have done my tasks as a client-side developer whose task was to develop a web-based application. I developed it just by HTML and CSS and in the end, I create a desktop application by integrating Electron.JS.
             <br /> ProGViz is a cross-platform graph-visualization desktop-application for visualizing well-known graphical representations of computer program source code such as CFGs, PDGs, ASTs, etc.
-            <br /> It was an internal project by a group of students of Amirkabir University of Technology, as a sub-project of the PhD thesis of <a href="http://linkedin.com/in/smghaffarian">Seyed Mohammad Ghaffarian</a>. 
+            <br /> It was an internal project by a group of students of Amirkabir University of Technology, as a sub-project of the Ph.D. thesis of <a href="http://linkedin.com/in/smghaffarian">Seyed Mohammad Ghaffarian</a>. 
             <br /> <a href="https://github.com/AliNazariii/progviz">Here</a> is some more information about our development process.
             <br />
             <Card className="tech-item"><p className="tech-item-text">HTML</p></Card>
@@ -53,36 +53,44 @@ function Project() {
           </div>
           <div className="card-item">
             <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Game-Of-Tanks">Game of Tanks</a></b> (Summer 2018)
-            <br /> A 2D java game containing both single player & multi player modes. Player spawns with a tank and its mission is to eliminate all enemies on the map.
+            <br /> A 2D java game containing both single-player & multiplayer modes. The player spawns with a tank and its mission is to eliminate all enemies on the map.
             <br /> The project is based on Buffer-Strategy implementation. It was our Advanced Programming final project and I implemented it with <a href="https://github.com/Amirhossein-Hediehloo">AmirHosein Hediehloo</a>.
             <br /> <a href="https://github.com/AliNazariii/Game-Of-Tanks">Here</a> is some more information about our development process.
             <br />
             <Card className="tech-item"><p className="tech-item-text">Java</p></Card>
             <Card className="tech-item"><p className="tech-item-text">Swing</p></Card>
             <Card className="tech-item"><p className="tech-item-text">Team-Work</p></Card>
+            <Card className="tech-item"><p className="tech-item-text">OOP</p></Card>
           </div>
           <div className="card-item">
             <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Download-Manager">JDM (Java Download Manager)</a></b> (Spring 2018)
-            <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
-            <br /> <a href="https://github.com/AliNazariii/Download-Manager">Here</a> is some more information about our development process.
+            <br /> It was a download manager as our Advanced Programming mid-term project. 
+            <br /> We want to learn swing and some basic concepts of networking through this project. Its UI was approximately a copy of EagleGet download manager.
+            <br /> <a href="https://github.com/AliNazariii/Download-Manager">Here</a> is some more information about my development process.
             <br />
             <Card className="tech-item"><p className="tech-item-text">Java</p></Card>
             <Card className="tech-item"><p className="tech-item-text">Swing</p></Card>
             <Card className="tech-item"><p className="tech-item-text">Network</p></Card>
+            <Card className="tech-item"><p className="tech-item-text">OOP</p></Card>
           </div>
           <div className="card-item">
             <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Battle-Ship-Game">Battle Ship</a></b> (Spring 2018)
-            <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
-            <br /> <a href="https://github.com/AliNazariii/Battle-Ship-Game">Here</a> is some more information about our development process.
+            <br /> A 2D java game containing both single-player & multiplayer modes. It hadn't UI and you should play through console.
+            <br /> It was one of our exercises in the Advanced Programming course. We learned Object Oriented Programming in it.
+            <br /> <a href="https://github.com/AliNazariii/Battle-Ship-Game">Here</a> is some more information about my development process.
             <br />
             <Card className="tech-item"><p className="tech-item-text">Java</p></Card>
+            <Card className="tech-item"><p className="tech-item-text">OOP</p></Card>
           </div>
           <div className="card-item">
             <Icon className="card-item" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Hangman-Game">Hangman</a></b> (Autumn 2017)
-            <br /> I started front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>. We developed it by ReactJS.
-            <br /> <a href="https://github.com/AliNazariii/Hangman-Game">Here</a> is some more information about our development process.
+            <br /> Hangman was our final project in the Fundamentals of Programming course in the first semester of the university. 
+            <br /> It was a game that provides some words and you should guess that word. If you guess a wrong character, you see a man that was drowning more and more in the console.
+            <br /> <a href="https://github.com/AliNazariii/Hangman-Game">Here</a> is some more information about my development process.
             <br />
             <Card className="tech-item"><p className="tech-item-text" style={{marginLeft: "-5px"}}>C</p></Card>
+            <Card className="tech-item"><p className="tech-item-text">Pointer</p></Card>
+            <Card className="tech-item"><p className="tech-item-text">Struct</p></Card>
           </div>
         </p>
       </Card>
