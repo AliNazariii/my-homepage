@@ -26,7 +26,7 @@ function Skills() {
           <div className="card-item">
             <Icon type="double-right" />
             <b> Miscellaneous:</b>  
-            <br />&emsp;&emsp;Git, MySQL, LATEX, ...
+            <br />&emsp;&emsp;Git, OOP, MySQL, LATEX, ...
           </div>
         </p>
       </Card>
