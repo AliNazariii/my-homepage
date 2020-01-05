@@ -38,7 +38,7 @@ function Home() {
             <Achievements />
           </div>
         </div>
-        <h5 className="footer">Made with love by <a href="https://github.com/AliNazariii">Ali Nazari</a></h5>
+        <h5 className="footer">Made with love by <a href="https://github.com/AliNazariii">&nbsp;Ali Nazari</a></h5>
       </div>
     </div>
   )
