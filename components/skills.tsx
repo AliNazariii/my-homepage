@@ -10,18 +10,23 @@ function Skills() {
         <p className="card-paragraph">
           <div className="card-item">
             <Icon type="double-right" />
-            <b> Programming Languages:</b>  
-            <br />&emsp;&emsp;Python, JavaScript, Java, C, Verilog, VHDL
+            <b> Web and Application Development:</b>  
+            <br />&emsp;&emsp;ReactJS, HTML, CSS, NEXT.JS, SASS
           </div>
           <div className="card-item">
             <Icon type="double-right" />
-            <b> Web and Application Development:</b>  
-            <br />&emsp;&emsp;ReactJS, HTML, CSS, NEXT.JS, SASS
+            <b> Programming Languages:</b>  
+            <br />&emsp;&emsp;Python, JavaScript, Java, C, Verilog, VHDL
           </div>
           <div className="card-item">
             <Icon type="double-right" />  
             <b> Graphic Design:</b>  
             <br />&emsp;&emsp;Adobe Photoshop, Illustrator, XD
+          </div>
+          <div className="card-item">
+            <Icon type="double-right" />  
+            <b> Soft Skills:</b>  
+            <br />&emsp;&emsp; Teamwork, Patience, Time management
           </div>
           <div className="card-item">
             <Icon type="double-right" />
