@@ -21,7 +21,7 @@ function Header() {
         </div>
         <div className="right-side header-right-side">
           <Button.Group>
-            <Button type="danger" className="download-cv-button" onClick={() => window.location.replace("https://raw.githubusercontent.com/AliNazariii/my-homepage/master/public/Ali%20Nazari%20-%20CV.pdf")}>
+            <Button type="danger" className="download-cv-button" onClick={() => window.location.replace("https://raw.githubusercontent.com/AliNazariii/my-homepage/master/public/AliNazari-CV.pdf")}>
               <Icon type="file-pdf" />
               Download CV
             </Button>
