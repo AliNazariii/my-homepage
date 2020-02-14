@@ -8,27 +8,39 @@ function Project() {
       <Card className="card">
         <h2 className="card-title">Projects</h2>
         <div className="card-paragraph">
+			<div className="card-item">
+				<Icon className="card-item icons-in-cards" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Restaurant-Manager/">Restaurant Manager</a></b> (Winter 2020) &emsp;
+				<br /> This is a panel for an administration a restaurant. It was the final project of our Database Design course at AUT.
+				<br /> <a href="https://github.com/AliNazariii/Restaurant-Manager/">Here</a> you can see this project.
+				<br />
+				<Tag className="project-tag">React</Tag>
+				<Tag className="project-tag">Next.JS</Tag>
+				<Tag className="project-tag">NodeJS</Tag>
+				<Tag className="project-tag">Ant Design</Tag>
+				<Tag className="project-tag">MySQL</Tag>
+				<Tag className="project-tag">CSS</Tag>
+			</div>
           	<div className="card-item">
 				<Icon className="card-item icons-in-cards" type="code" theme="filled" /> <b><a href="https://ali-nazari.ir/">My Homepage</a></b> (Winter 2019) &emsp;
 				<br /> I designed and implemented this website as a homepage for myself in my free time.
 				<br /> <a href="https://github.com/AliNazariii/my-homepage">Here</a> you can see the repository of this project.
 				<br />
 				<Tag className="project-tag">React</Tag>
-				<Tag>Next.JS</Tag>
-				<Tag>Typescript</Tag>
-				<Tag>Ant Design</Tag>
-				<Tag>SASS</Tag>
-				<Tag>CSS</Tag>
+				<Tag className="project-tag">Next.JS</Tag>
+				<Tag className="project-tag">Typescript</Tag>
+				<Tag className="project-tag">Ant Design</Tag>
+				<Tag className="project-tag">SASS</Tag>
+				<Tag className="project-tag">CSS</Tag>
 			</div>
 			<div className="card-item">
 				<Icon className="card-item icons-in-cards" type="code" theme="filled" /> <b><a href="https://icpc.aut.ac.ir/">AUT ICPC Website</a></b> (Summer 2019)
 				<br /> I started the front-end of this project with <a href="https://www.linkedin.com/in/keshavarz13/">MohamadAli Keshavarz</a>.
 				<br /> <a href="https://github.com/aut-icpc/ACM-frontend">Here</a> is some more information about our development process.
 				<br />
-				<Tag>React</Tag>
-				<Tag>Material-UI</Tag>
-				<Tag>CSS</Tag>
-				<Tag>Team-Work</Tag>
+				<Tag className="project-tag">React</Tag>
+				<Tag className="project-tag">Material-UI</Tag>
+				<Tag className="project-tag">CSS</Tag>
+				<Tag className="project-tag">Team-Work</Tag>
 			</div>
 			<div className="card-item">
 				<Icon className="card-item icons-in-cards" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Elevator">Elevator</a></b> (Autumn 2018)
@@ -36,8 +48,8 @@ function Project() {
 				<br />First, we think as a group to design an efficient FSM (finite state machine) for movement and also the management of the elevator.
 				<br /> <a href="https://github.com/AliNazariii/Elevator">Here</a> is some more information about it.
 				<br />
-				<Tag>Verilog</Tag>
-				<Tag>FSM</Tag>
+				<Tag className="project-tag">Verilog</Tag>
+				<Tag className="project-tag">FSM</Tag>
 			</div>
 			<div className="card-item">
 				<Icon className="card-item icons-in-cards" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/progviz">ProGViz</a></b> (Summer 2018)
@@ -46,10 +58,10 @@ function Project() {
 				<br /> It was an internal project by a group of students of Amirkabir University of Technology, as a sub-project of the Ph.D. thesis of <a href="http://linkedin.com/in/smghaffarian">Seyed Mohammad Ghaffarian</a>. 
 				<br /> <a href="https://github.com/AliNazariii/progviz">Here</a> is some more information about our development process.
 				<br />
-				<Tag>HTML</Tag>
-				<Tag>CSS</Tag>
-				<Tag>JavaScript</Tag>
-				<Tag>Electron.JS</Tag>
+				<Tag className="project-tag">HTML</Tag>
+				<Tag className="project-tag">CSS</Tag>
+				<Tag className="project-tag">JavaScript</Tag>
+				<Tag className="project-tag">Electron.JS</Tag>
 			</div>
 			<div className="card-item">
 				<Icon className="card-item icons-in-cards" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Game-Of-Tanks">Game of Tanks</a></b> (Summer 2018)
@@ -57,10 +69,10 @@ function Project() {
 				<br /> The project is based on Buffer-Strategy implementation. It was our Advanced Programming final project and I implemented it with <a href="https://github.com/Amirhossein-Hediehloo">AmirHosein Hediehloo</a>.
 				<br /> <a href="https://github.com/AliNazariii/Game-Of-Tanks">Here</a> is some more information about our development process.
 				<br />
-				<Tag>Java</Tag>
-				<Tag>Swing</Tag>
-				<Tag>Team-Work</Tag>
-				<Tag>OOP</Tag>
+				<Tag className="project-tag">Java</Tag>
+				<Tag className="project-tag">Swing</Tag>
+				<Tag className="project-tag">Team-Work</Tag>
+				<Tag className="project-tag">OOP</Tag>
 			</div>
 			<div className="card-item">
 				<Icon className="card-item icons-in-cards" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Download-Manager">JDM (Java Download Manager)</a></b> (Spring 2018)
@@ -68,10 +80,10 @@ function Project() {
 				<br /> We want to learn swing and some basic concepts of networking through this project. Its UI was approximately a copy of EagleGet download manager.
 				<br /> <a href="https://github.com/AliNazariii/Download-Manager">Here</a> is some more information about my development process.
 				<br />
-				<Tag>Java</Tag>
-				<Tag>Swing</Tag>
-				<Tag>Network</Tag>
-				<Tag>OOP</Tag>
+				<Tag className="project-tag">Java</Tag>
+				<Tag className="project-tag">Swing</Tag>
+				<Tag className="project-tag">Network</Tag>
+				<Tag className="project-tag">OOP</Tag>
 			</div>
 			<div className="card-item">
 				<Icon className="card-item icons-in-cards" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Battle-Ship-Game">Battle Ship</a></b> (Spring 2018)
@@ -79,8 +91,8 @@ function Project() {
 				<br /> It was one of our exercises in the Advanced Programming course. We learned Object Oriented Programming in it.
 				<br /> <a href="https://github.com/AliNazariii/Battle-Ship-Game">Here</a> is some more information about my development process.
 				<br />
-				<Tag>Java</Tag>
-				<Tag>OOP</Tag>
+				<Tag className="project-tag">Java</Tag>
+				<Tag className="project-tag">OOP</Tag>
 			</div>
 			<div className="card-item">
 				<Icon className="card-item icons-in-cards" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/Hangman-Game">Hangman</a></b> (Autumn 2017)
@@ -88,9 +100,9 @@ function Project() {
 				<br /> It was a game that provides some words and you should guess that word. If you guess a wrong character, you see a man that was drowning more and more in the console.
 				<br /> <a href="https://github.com/AliNazariii/Hangman-Game">Here</a> is some more information about my development process.
 				<br />
-				<Tag>C</Tag>
-				<Tag>Pointer</Tag>
-				<Tag>Struct</Tag>
+				<Tag className="project-tag">C</Tag>
+				<Tag className="project-tag">Pointer</Tag>
+				<Tag className="project-tag">Struct</Tag>
 			</div>
         </div>
       </Card>

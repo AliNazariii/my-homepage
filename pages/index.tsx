@@ -26,8 +26,8 @@ function Home() {
 			<div className="left-side">
 				<About />
 				<Education />
-				<Work />
 				<Project />
+				<Work />
 			</div>
 			<div className="right-side">
 				<Contact />
