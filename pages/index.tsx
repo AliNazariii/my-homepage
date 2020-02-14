@@ -1,4 +1,3 @@
-import { Card, Icon } from 'antd'
 import Head from 'next/head'
 import "../styles/index.scss"
 import "antd/dist/antd.css";
@@ -32,10 +31,10 @@ function Home() {
 			</div>
 			<div className="right-side">
 				<Contact />
-				<Interests />
 				<Skills />
-				<Languages />
+				<Interests />
 				<Achievements />
+				<Languages />
 			</div>
 			</div>
 			<h5 className="footer">Made with love by <a href="https://github.com/AliNazariii">&nbsp;Ali Nazari</a></h5>

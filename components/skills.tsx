@@ -9,28 +9,28 @@ function Skills() {
         <h2 className="card-title">Skills</h2>
         <div className="card-paragraph">
           <div className="card-item">
-            <Icon type="double-right" />
-            <b> Web and Application Development:</b>  
-            <br />&emsp;&emsp;ReactJS, HTML, CSS, NEXT.JS, SASS
+            <Icon type="double-right" className="icons-in-cards" />
+            <b className="card-bolds"> Web and Application Development:</b>  
+            <br />&emsp;&emsp;ReactJS, HTML, CSS, NEXT.JS, SASS, NodeJS
           </div>
           <div className="card-item">
-            <Icon type="double-right" />
-            <b> Programming Languages:</b>  
+            <Icon type="double-right" className="icons-in-cards" />
+            <b className="card-bolds"> Programming Languages:</b>  
             <br />&emsp;&emsp;Python, JavaScript, Java, C, Verilog, VHDL
           </div>
           <div className="card-item">
-            <Icon type="double-right" />  
-            <b> Graphic Design:</b>  
-            <br />&emsp;&emsp;Adobe Photoshop, Illustrator, XD
+            <Icon type="double-right" className="icons-in-cards" />  
+            <b className="card-bolds"> Graphic Design:</b>  
+            <br />&emsp;&emsp;Adobe Photoshop, Adobe Illustrator, XD
           </div>
           <div className="card-item">
-            <Icon type="double-right" />  
-            <b> Soft Skills:</b>  
-            <br />&emsp;&emsp; Teamwork, Patience, Time management
+            <Icon type="double-right" className="icons-in-cards" />  
+            <b className="card-bolds"> Soft Skills:</b>  
+            <br />&emsp;&emsp; Teamwork, Patience, Accountability, Time management
           </div>
           <div className="card-item">
-            <Icon type="double-right" />
-            <b> Miscellaneous:</b>  
+            <Icon type="double-right" className="icons-in-cards" />
+            <b className="card-bolds"> Miscellaneous:</b>  
             <br />&emsp;&emsp;Git, OOP, MySQL, LATEX, ...
           </div>
         </div>

@@ -3,42 +3,68 @@
     margin-right: 15px;
     margin-left: 15px;
     margin-top: 30px;
-    border: solid #ff4d4f;
+    background-color: #ede9d7;
+    border: solid #990933;
 }
 .card:hover {
-    border: solid #ff7875;
+    border: solid #973f58;
 }
 
 .avatar {
     width: 180px;
     height: 180px;
     margin: 20px;
-    border: solid #ff4d4f;
+    border: solid #990933;
 }
 .avatar:hover {
-    border: solid #ff7875;
+    border: solid #973f58;
 }
 
 .icon {
-    color: #ff4d4f;
+    color: #990933;
     font-size: 25px;
     margin: 5px;
 }
 .icon:hover {
-    color: #ff7875;
+    color: #973f58;
+}
+.icon:focus {
+    color: #973f58;
 }
 
 .download-cv-button {
     font-weight: 700;
+    background-color: #990933;
+    border: solid #990933;
+    color: #ede9d7;
+}
+.download-cv-button:hover {
+    background-color: #973f58;
+    border: solid #973f58;
+    color: #ede9d7;
+}
+.download-cv-button:focus {
+    background-color: #973f58;
+    border: solid #973f58;
+    color: #ede9d7;
 }
 
 .card-item {
     margin: 10px;
 }
 
+.icons-in-cards {
+    color: #330011;
+}
+
+.project-tag {
+    margin-top: 3px;
+}
+
 a {
-    color: #ff4d4f;
+    color: #990933;
 }
 a:hover {
-    color: #ff7875;
+    color: #973f58;
 }
+
