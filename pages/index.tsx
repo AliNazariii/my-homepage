@@ -18,27 +18,27 @@ import About from '../components/about'
 function Home() {
   return(
     <div className="root">
-      <Head>
-        <title>Ali Nazari</title>
-      </Head>
-      <div className="my-layout">
-        <Header />
-        <div className="boxes">
-          <div className="left-side">
-            <About />
-            <Education />
-            <Work />
-            <Project />
-          </div>
-          <div className="right-side">
-            <Contact />
-            <Interests />
-            <Skills />
-            <Languages />
-            <Achievements />
-          </div>
-        </div>
-        <h5 className="footer">Made with love by <a href="https://github.com/AliNazariii">&nbsp;Ali Nazari</a></h5>
+		<Head>
+			<title>Ali Nazari</title>
+		</Head>
+		<div className="my-layout">
+			<Header />
+			<div className="boxes">
+			<div className="left-side">
+				<About />
+				<Education />
+				<Work />
+				<Project />
+			</div>
+			<div className="right-side">
+				<Contact />
+				<Interests />
+				<Skills />
+				<Languages />
+				<Achievements />
+			</div>
+			</div>
+			<h5 className="footer">Made with love by <a href="https://github.com/AliNazariii">&nbsp;Ali Nazari</a></h5>
       </div>
     </div>
   )

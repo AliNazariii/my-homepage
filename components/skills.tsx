@@ -7,7 +7,7 @@ function Skills() {
     return(
       <Card className="card">
         <h2 className="card-title">Skills</h2>
-        <p className="card-paragraph">
+        <div className="card-paragraph">
           <div className="card-item">
             <Icon type="double-right" />
             <b> Web and Application Development:</b>  
@@ -33,7 +33,7 @@ function Skills() {
             <b> Miscellaneous:</b>  
             <br />&emsp;&emsp;Git, OOP, MySQL, LATEX, ...
           </div>
-        </p>
+        </div>
       </Card>
     )
 }

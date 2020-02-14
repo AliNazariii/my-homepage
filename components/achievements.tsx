@@ -7,7 +7,7 @@ function Achievements() {
     return(
       <Card className="card">
         <h2 className="card-title">Achievements</h2>
-        <p className="card-paragraph">
+        <div className="card-paragraph">
           <div className="card-item">
             <Icon type="trophy" theme="filled" />
             &nbsp;Achieved top 0.3% place among all applicants of the Nationwide University Entrance Exam for B.Sc. in Math. 
@@ -17,7 +17,7 @@ function Achievements() {
             <Icon type="trophy" theme="filled" />
             &nbsp;Accepted in first stage of Chemistry Olympiad in National Organization for Development of Exceptional Talents, Iran - June 2015.
           </div>
-        </p>
+        </div>
       </Card>
     )
 }

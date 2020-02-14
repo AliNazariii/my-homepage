@@ -7,7 +7,7 @@ function Languages() {
     return(
       <Card className="card">
         <h2 className="card-title">Languages</h2>
-        <p className="card-paragraph">
+        <div className="card-paragraph">
           <div className="card-item">
             <Icon type="message" />
             <b> Persian: </b> Native 
@@ -19,7 +19,7 @@ function Languages() {
           <div className="card-item">
             Also Familiar with Arabic
           </div>
-        </p>
+        </div>
       </Card>
     )
 }
