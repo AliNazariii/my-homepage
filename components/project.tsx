@@ -53,7 +53,7 @@ function Project() {
 			</div>
 			<div className="card-item">
 				<Icon className="card-item icons-in-cards" type="code" theme="filled" /> <b><a href="https://github.com/AliNazariii/progviz">ProGViz</a></b> (Summer 2018)
-				<br /> First I should say that this project was failed but I have done my tasks as a client-side developer whose task was to develop a web-based application. I developed it just by HTML and CSS and in the end, I create a desktop application by integrating Electron.JS.
+				<br /> First I should say that this project was unsuccessful but I did my tasks as a client-side developer whose task was to develop a web-based application. I developed it just by HTML and CSS and in the end, I create a desktop application by integrating Electron.JS.
 				<br /> ProGViz is a cross-platform graph-visualization desktop-application for visualizing well-known graphical representations of computer program source code such as CFGs, PDGs, ASTs, etc.
 				<br /> It was an internal project by a group of students of Amirkabir University of Technology, as a sub-project of the Ph.D. thesis of <a href="http://linkedin.com/in/smghaffarian">Seyed Mohammad Ghaffarian</a>. 
 				<br /> <a href="https://github.com/AliNazariii/progviz">Here</a> is some more information about our development process.
