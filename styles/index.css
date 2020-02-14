@@ -42,17 +42,3 @@ a {
 a:hover {
     color: #ff7875;
 }
-
-.tech-item {
-    top: 10px;
-    border-radius: 5px;
-    display: inline-flex;
-    height: 22px;
-    margin: 4px;
-}
-
-.tech-item-text {
-    margin-top: -25px;
-    margin-left: -15px;
-    margin-right: -15px;
-}
