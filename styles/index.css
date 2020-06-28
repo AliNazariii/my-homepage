@@ -3,50 +3,45 @@
     margin-right: 15px;
     margin-left: 15px;
     margin-top: 30px;
-    background-color: #ede9d7;
-    border: solid #990933;
-}
-.card:hover {
-    border: solid #973f58;
+    background-color: #ffffff;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
 }
 
 .avatar {
     width: 180px;
     height: 180px;
     margin: 20px;
-    border: solid #990933;
-}
-.avatar:hover {
-    border: solid #973f58;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
 }
 
 .icon {
-    color: #990933;
-    font-size: 25px;
+    color: #424750;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
     margin: 5px;
 }
 .icon:hover {
-    color: #973f58;
+    color: #52565e;
 }
 .icon:focus {
-    color: #973f58;
+    color: #52565e;
 }
 
 .download-cv-button {
     font-weight: 700;
-    background-color: #990933;
-    border: solid #990933;
-    color: #ede9d7;
+    background-color: #a62626;
+    border: solid #a62626;
+    color: #ffffff;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
 }
 .download-cv-button:hover {
-    background-color: #973f58;
-    border: solid #973f58;
-    color: #ede9d7;
+    background-color: #ce3131;
+    border: solid #ce3131;
+    color: #ffffff;
 }
 .download-cv-button:focus {
-    background-color: #973f58;
-    border: solid #973f58;
-    color: #ede9d7;
+    background-color: #ce3131;
+    border: solid #ce3131;
+    color: #ffffff;
 }
 
 .card-item {
@@ -54,7 +49,7 @@
 }
 
 .icons-in-cards {
-    color: #330011;
+    color: #424750;
 }
 
 .project-tag {
@@ -62,9 +57,8 @@
 }
 
 a {
-    color: #990933;
+    color: #a62626;
 }
 a:hover {
-    color: #973f58;
+    color: #ce3131;
 }
-

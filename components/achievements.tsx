@@ -1,7 +1,4 @@
 import { Card } from 'antd'
-import "../styles/index.scss"
-import "antd/dist/antd.css";
-import "../styles/index.css"
 import { TrophyFilled } from '@ant-design/icons'
 
 function Achievements() {

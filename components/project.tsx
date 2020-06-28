@@ -1,7 +1,4 @@
 import { Card, Tag } from 'antd'
-import "../styles/index.scss"
-import "antd/dist/antd.css";
-import "../styles/index.css"
 import { CodeFilled } from '@ant-design/icons'
 
 function Project() {
@@ -22,9 +19,9 @@ function Project() {
 				<Tag className="project-tag">CSS</Tag>
 			</div>
           	<div className="card-item">
-				<CodeFilled className="card-item icons-in-cards" /> <b><a href="https://ali-nazari.ir/">My Homepage</a></b> (Winter 2019) &emsp;
-				<br /> I designed and implemented this website as a homepage for myself in my free time.
-				<br /> <a href="https://github.com/AliNazariii/my-homepage">Here</a> you can see the repository of this project.
+				<CodeFilled className="card-item icons-in-cards" /> <b><a href="https://ali-nazari.ir/">Matakbir Homepage Template</a></b> (Winter 2019) &emsp;
+				<br /> I designed and implemented this homepage template for myself in my free time.
+				<br /> <a href="https://github.com/AliNazariii/matakbir-homepage">Here</a> you can see the repository of this project.
 				<br />
 				<Tag className="project-tag">React</Tag>
 				<Tag className="project-tag">Next.JS</Tag>

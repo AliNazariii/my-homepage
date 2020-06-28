@@ -1,14 +1,11 @@
 import { Card } from 'antd'
-import "../styles/index.scss"
-import "antd/dist/antd.css";
-import "../styles/index.css"
-import { PhoneFilled, MailFilled, LinkOutlined } from '@ant-design/icons'
+import { PhoneFilled, MailFilled, LinkOutlined, EnvironmentOutlined } from '@ant-design/icons'
 
 function Contact() {
     return(
       <Card className="card">
         <p className="card-paragraph">
-          <Icon className="card-item icons-in-cards" type="environment" /> Tehran, Iran
+          <EnvironmentOutlined className="card-item icons-in-cards" /> Tehran, Iran
           <br /><PhoneFilled className="card-item icons-in-cards" /> +98-9212812589
           <br /><MailFilled className="card-item  icons-in-cards" /> <a href="mailto:ali_nazari_ir@hotmail.com"> ali_nazari_ir@hotmail.com</a>
           <br /><MailFilled className="card-item  icons-in-cards" /> <a href="mailto:ali_nazari_ir@outlook.com"> ali_nazari_ir@outlook.com</a>

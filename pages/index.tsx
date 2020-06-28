@@ -1,8 +1,4 @@
 import Head from 'next/head'
-import "../styles/index.scss"
-import "antd/dist/antd.css";
-import "../styles/index.css"
-
 import Header from '../components/header'
 import Education from '../components/education'
 import Work from '../components/work'
@@ -25,11 +21,11 @@ function Home() {
 			<div className="boxes">
 			<div className="left-side">
 				<About />
-				<Education />
-				<Project />
 				<Work />
+				<Project />
 			</div>
 			<div className="right-side">
+				<Education />
 				<Contact />
 				<Skills />
 				<Interests />

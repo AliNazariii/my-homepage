@@ -1,7 +1,4 @@
 import { Card } from 'antd'
-import "../styles/index.scss"
-import "antd/dist/antd.css";
-import "../styles/index.css"
 import { BookFilled } from '@ant-design/icons'
 
 function Interests() {

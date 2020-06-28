@@ -1,7 +1,4 @@
 import { Card } from 'antd'
-import "../styles/index.scss"
-import "antd/dist/antd.css";
-import "../styles/index.css"
 import { SettingFilled } from '@ant-design/icons'
 
 function Work() {
@@ -10,13 +7,13 @@ function Work() {
         <h2 className="card-title">Work and Volunteer Experiences</h2>
         <div className="card-paragraph">
 			<div className="card-item">
-					<SettingFilled className="card-item icons-in-cards" /> <b className="card-bolds">Chairman (President)</b> - <a href="http://ceit-ssc.ir/">Students' Scientific Chapter of AUT-CE</a> (March 2019 - March 2020)
+					<SettingFilled className="card-item icons-in-cards" /> <b className="card-bolds">Chairman (President)</b> - <a href="http://ceit-ssc.ir/">Students' Scientific Chapter of AUT-CE</a> (March 2019 - Present)
 					<p> 
 						I was elected as a member and head of the management board by students of CE Department of Amirkabir University in March 2019.
 					</p>
 					<div> 
 						We managed to organize more than 40 events, talks, competitions, festivals, seminars and workshops. <br />
-						I took part as an executive and technical commitee member and head of many conferences, workshops, festivals and competitions such as:
+						I took part as an executive and technical committee member and head of many conferences, workshops, festivals and competitions such as:
 						<ul>
 							<li>18th and 19th Amirkabir University of Technology International Collegiate Programming Contest (AUT ACM ICPC 2019) (Fall 2018-2019)</li>
 							<li>11th Amirkabir Linux Festival (Winter 2020)</li>

@@ -1,7 +1,4 @@
 import { Card } from 'antd'
-import "../styles/index.scss"
-import "antd/dist/antd.css";
-import "../styles/index.css"
 import { DoubleRightOutlined } from '@ant-design/icons'
 
 function Skills() {
@@ -27,12 +24,12 @@ function Skills() {
           <div className="card-item">
             <DoubleRightOutlined className="icons-in-cards" />  
             <b className="card-bolds"> Soft Skills:</b>  
-            <br />&emsp;&emsp; Teamwork, Patience, Accountability, Time management
+            <br />&emsp;&emsp; Teamwork, Patience, Accountability, Time management, Leadership
           </div>
           <div className="card-item">
             <DoubleRightOutlined className="icons-in-cards" />
             <b className="card-bolds"> Miscellaneous:</b>  
-            <br />&emsp;&emsp;Git, OOP, MySQL, LATEX, ...
+            <br />&emsp;&emsp;Git, OOP, MySQL, LATEX, Bash, Linux, Docker, ...
           </div>
         </div>
       </Card>
