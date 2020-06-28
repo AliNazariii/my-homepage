@@ -8,17 +8,18 @@
     "start": "next start -p 3004"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.2.1",
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
-    "antd": "^3.26.3",
-    "next": "9.1.6",
-    "node-sass": "^4.13.0",
-    "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "antd": "^4.3.5",
+    "next": "^9.4.4",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@types/node": "^12.12.21",
-    "@types/react": "^16.9.16",
-    "typescript": "^3.7.3"
+    "@types/node": "^12.12.47",
+    "@types/react": "^16.9.41",
+    "typescript": "^3.9.5"
   }
 }

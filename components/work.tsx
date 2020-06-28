@@ -1,7 +1,8 @@
-import { Card, Icon } from 'antd'
+import { Card } from 'antd'
 import "../styles/index.scss"
 import "antd/dist/antd.css";
 import "../styles/index.css"
+import { SettingFilled } from '@ant-design/icons'
 
 function Work() {
     return(
@@ -9,7 +10,7 @@ function Work() {
         <h2 className="card-title">Work and Volunteer Experiences</h2>
         <div className="card-paragraph">
 			<div className="card-item">
-					<Icon className="card-item icons-in-cards" type="setting" theme="filled" /> <b className="card-bolds">Chairman (President)</b> - <a href="http://ceit-ssc.ir/">Students' Scientific Chapter of AUT-CE</a> (March 2019 - March 2020)
+					<SettingFilled className="card-item icons-in-cards" /> <b className="card-bolds">Chairman (President)</b> - <a href="http://ceit-ssc.ir/">Students' Scientific Chapter of AUT-CE</a> (March 2019 - March 2020)
 					<p> 
 						I was elected as a member and head of the management board by students of CE Department of Amirkabir University in March 2019.
 					</p>
@@ -26,7 +27,7 @@ function Work() {
 					</div>
 			</div>
 			<div className="card-item">
-				<Icon className="card-item icons-in-cards" type="setting" theme="filled" /> <b className="card-bolds">UI/UX Design Intern</b> - <a href="https://daneshkar.net/">Daneshkar Group</a> (March 2018 - June 2018)
+				<SettingFilled className="card-item icons-in-cards" /> <b className="card-bolds">UI/UX Design Intern</b> - <a href="https://daneshkar.net/">Daneshkar Group</a> (March 2018 - June 2018)
 				<br /> I started to read some books related to user experience and also work with some prototyping tools like Adobe XD and Axure PR.
 			</div>
         </div>

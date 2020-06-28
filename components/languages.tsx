@@ -1,7 +1,8 @@
-import { Card, Icon } from 'antd'
+import { Card } from 'antd'
 import "../styles/index.scss"
 import "antd/dist/antd.css";
 import "../styles/index.css"
+import { MessageOutlined } from '@ant-design/icons'
 
 function Languages() {
     return(
@@ -9,11 +10,11 @@ function Languages() {
         <h2 className="card-title">Languages</h2>
         <div className="card-paragraph">
           <div className="card-item">
-            <Icon type="message" className="icons-in-cards" />
+            <MessageOutlined className="icons-in-cards" />
             <b className="card-bolds"> Persian: </b> Native 
           </div>
           <div className="card-item">
-            <Icon type="message" className="icons-in-cards" />
+            <MessageOutlined className="icons-in-cards" />
             <b className="card-bolds"> English: </b> Limited working proficiency 
           </div>
           <div className="card-item">

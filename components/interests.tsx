@@ -1,17 +1,18 @@
-import { Card, Icon } from 'antd'
+import { Card } from 'antd'
 import "../styles/index.scss"
 import "antd/dist/antd.css";
 import "../styles/index.css"
+import { BookFilled } from '@ant-design/icons'
 
 function Interests() {
     return(
       <Card className="card">
         <h2 className="card-title">Interests</h2>
         <p className="card-paragraph">
-          <Icon className="card-item icons-in-cards" type="book" theme="filled" /> Front-End Technologies
-          <br /><Icon className="card-item icons-in-cards" type="book" theme="filled" /> Graphic Design
-          <br /><Icon className="card-item icons-in-cards" type="book" theme="filled" /> Psychology
-          <br /><Icon className="card-item icons-in-cards" type="book" theme="filled" /> Teaching
+          <BookFilled className="card-item icons-in-cards" type="book" theme="filled" /> Front-End Technologies
+          <br /><BookFilled className="card-item icons-in-cards" type="book" theme="filled" /> Graphic Design
+          <br /><BookFilled className="card-item icons-in-cards" type="book" theme="filled" /> Psychology
+          <br /><BookFilled className="card-item icons-in-cards" type="book" theme="filled" /> Teaching
         </p>
       </Card>
     )

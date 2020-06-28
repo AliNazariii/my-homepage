@@ -1,7 +1,8 @@
-import { Button, Avatar, Icon } from 'antd'
+import { Button, Avatar } from 'antd'
 import "../styles/index.scss"
 import "antd/dist/antd.css";
 import "../styles/index.css"
+import { LinkedinFilled, InstagramFilled } from '@ant-design/icons'
 
 function Header() {
   return(
@@ -13,9 +14,9 @@ function Header() {
             <h2 className="my-work">Front-End Engineer</h2>
             <div className="social-networks">
               <Button className="icon" type="link" shape="circle" icon="github" href="https://github.com/AliNazariii" />
-              <Button className="icon" type="link" shape="circle" href="https://www.linkedin.com/in/ali-nazariii/"><Icon type="linkedin" theme="filled" /></Button>
+              <Button className="icon" type="link" shape="circle" href="https://www.linkedin.com/in/ali-nazariii/"><LinkedinFilled /></Button>
               <Button className="icon" type="link" shape="circle" icon="twitter" href="https://twitter.com/AliNazariii_" />
-              <Button className="icon" type="link" shape="circle" href="https://www.instagram.com/_alinazariii_/"><Icon type="instagram" theme="filled" /></Button>
+              <Button className="icon" type="link" shape="circle" href="https://www.instagram.com/_alinazariii_/"><InstagramFilled /></Button>
             </div>
           </div>
         </div>
