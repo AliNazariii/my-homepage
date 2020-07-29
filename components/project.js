@@ -7,6 +7,24 @@ function Project() {
         <h2 className="card-title">Projects</h2>
         <div className="card-paragraph">
 			<div className="card-item">
+				<CodeFilled className="card-item icons-in-cards" /> <b><a href="https://alinazariii.github.io/To-Do/">To-Do App</a></b> (Summer 2020) &emsp;
+				<br /> It's a To-Do web application. You can mark your tasks as done or pinned. Tasks have priority-tag and will show based on their priority.
+				<br /> <a href="https://github.com/AliNazariii/To-Do">Here</a> you can see this project.
+				<br />
+				<Tag className="project-tag">React</Tag>
+				<Tag className="project-tag">SASS</Tag>
+				<Tag className="project-tag">Context API</Tag>
+			</div>
+			<div className="card-item">
+				<CodeFilled className="card-item icons-in-cards" /> <b><a href="https://note-manager.vercel.app/">Note Manager</a></b> (Spring 2020) &emsp;
+				<br /> This is a note application and uses local storage to save your notes in your browser.
+				<br /> <a href="https://github.com/AliNazariii/Note-Manager">Here</a> you can see this project.
+				<br />
+				<Tag className="project-tag">React</Tag>
+				<Tag className="project-tag">SASS</Tag>
+				<Tag className="project-tag">Context API</Tag>
+			</div>
+			<div className="card-item">
 				<CodeFilled className="card-item icons-in-cards" /> <b><a href="https://github.com/AliNazariii/Restaurant-Manager/">Restaurant Manager</a></b> (Winter 2020) &emsp;
 				<br /> This is a panel for an administration a restaurant. It was the final project of our Database Design course at AUT.
 				<br /> <a href="https://github.com/AliNazariii/Restaurant-Manager/">Here</a> you can see this project.
