@@ -1,7 +1,7 @@
 import { Card } from 'antd'
 import { SettingFilled } from '@ant-design/icons'
 
-function Work() {
+export default function Work() {
     return(
       <Card className="card">
         <h2 className="card-title">Work and Volunteer Experiences</h2>
@@ -31,5 +31,3 @@ function Work() {
       </Card>
     )
 }
-
-export default Work

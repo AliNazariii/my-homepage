@@ -248,6 +248,109 @@
         }
     ],
     "skills": [
+        {
+            "category": "Web and Application Development",
+            "skills": [
+                {
+                    "name": "HTML, CSS"
+                },
+                {
+                    "name": "SASS"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "ReactJS + Next.JS"
+                },
+                {
+                    "name": "NodeJS"
+                }
+            ]
+        },
+        {
+            "category": "Programming Languages",
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Verilog"
+                },
+                {
+                    "name": "VHDL"
+                }
+            ]
+        },
+        {
+            "category": "Graphic Design",
+            "skills": [
+                {
+                    "name": "Adobe Photoshop"
+                },
+                {
+                    "name": "Adobe Illustrator"
+                },
+                {
+                    "name": "Adobe XD"
+                }
+            ]
+        },
+        {
+            "category": "Soft Skills",
+            "skills": [
+                {
+                    "name": "Teamwork"
+                },
+                {
+                    "name": "Patience"
+                },
+                {
+                    "name": "Accountability"
+                },
+                {
+                    "name": "Time management"
+                },
+                {
+                    "name": "Leadership"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous",
+            "skills": [
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "OOP"
+                },
+                {
+                    "name": "MySQL"
+                },
+                {
+                    "name": "LATEX"
+                },
+                {
+                    "name": "Bash"
+                },
+                {
+                    "name": "Linux"
+                },
+                {
+                    "name": "Docker"
+                }
+            ]
+        }
 
     ],
     "work": [
