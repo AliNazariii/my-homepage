@@ -1,0 +1,256 @@
+{
+    "about": {
+        "text": "I'm an undergraduate student of Computer Engineering at CE department of Amirkabir University of Technology (Tehran Polytechnic). I am 21 and I was born in Tehran."
+    },
+    "achievements": [
+        {
+            "text": "Achieved top 0.3% place among all applicants of the Nationwide University Entrance Exam for B.Sc. in Math and Engineering (Approximately 137000 applicants), Iran - July 2017."
+        },
+        {
+            "text": "Accepted in first stage of Chemistry Olympiad in National Organization for Development of Exceptional Talents, Iran - June 2015."
+        }
+    ],
+    "contact": {
+        "mails": [
+            {
+                "address": "ali4nazari4@gmail.com"
+            },
+            {
+                "address": "ali.nazari@aut.ac.ir"
+            }
+        ],
+        "sites": [
+            {
+                "site": "ali-nazari.ir"
+            },
+            {
+                "site": "alinazariii.github.io"
+            },
+            {
+                "site": "ceit.aut.ac.ir/~nazari"
+            }
+        ]
+    },
+    "education": [
+        {
+            "grade": "B.Sc. Computer Engineering",
+            "place": "Amirkabir University of Technology (2017 - Present)",
+            "gpa": "GPA: 16.12/20"
+        },
+        {
+            "grade": "Diploma Mathematics",
+            "place": "Alborz High School (2013 - 2017)",
+            "gpa": "GPA: 19.86/20"
+        }
+    ],
+    "interests": [
+        {
+            "title": "Front-End Technologies"
+        },
+        {
+            "title": "Graphic Design"
+        },
+        {
+            "title": "Psychology"
+        },
+        {
+            "title": "Teaching"
+        }
+    ],
+    "languages": [
+        {
+            "title": "English",
+            "level": "Limited working proficiency"
+        },
+        {
+            "title": "Persian",
+            "level": "Native"
+        },
+        {
+            "title": "Arabic",
+            "level": "Familiar"
+        }
+    ],
+    "project": [
+        {
+            "title": "To-Do App",
+            "link": "https://note-manager.vercel.app/",
+            "date": "(Summer 2020)",
+            "description": "It's a To-Do web application. You can mark your tasks as done or pinned. Tasks have priority-tag and will show based on their priority.",
+            "repo": "https://github.com/AliNazariii/To-Do",
+            "tags": [
+                {
+                    "title": "Web Application"
+                },
+                {
+                    "title": "React"
+                }
+            ]
+        },
+        {
+            "title": "Note Manager",
+            "link": "https://note-manager.vercel.app/",
+            "date": "(Spring 2020)",
+            "description": "This is a note application and uses local storage to save your notes in your browser.",
+            "repo": "https://github.com/AliNazariii/Note-Manager",
+            "tags": [
+                {
+                    "title": "Web Application"
+                },
+                {
+                    "title": "React"
+                }
+            ]
+        },
+        {
+            "title": "Restaurant Manager",
+            "link": "https://github.com/AliNazariii/Restaurant-Manager/",
+            "date": "(Winter 2020)",
+            "description": "This is a panel for an administration a restaurant. It was the final project of our Database Design course at AUT.",
+            "repo": "https://github.com/AliNazariii/Restaurant-Manager/",
+            "tags": [
+                {
+                    "title": "Web Application"
+                },
+                {
+                    "title": "React"
+                },
+                {
+                    "title": "NodeJS"
+                },
+                {
+                    "title": "MySQL"
+                }
+            ]
+        },
+        {
+            "title": "Matakbir Homepage Template",
+            "link": "https://ali-nazari.ir/",
+            "date": "(Autumn 2019)",
+            "description": "I designed and implemented this homepage template for myself in my free time.",
+            "repo": "https://github.com/AliNazariii/matakbir-homepage",
+            "tags": [
+                {
+                    "title": "Website"
+                },
+                {
+                    "title": "React"
+                }
+            ]
+        },
+        {
+            "title": "AUT ICPC Website",
+            "link": "https://icpc.aut.ac.ir/",
+            "date": "(Summer 2019)",
+            "description": "I started the front-end of this project with <a href='https://www.linkedin.com/in/keshavarz13/'>MohamadAli Keshavarz</a>.",
+            "repo": "https://github.com/aut-icpc/ACM-frontend",
+            "tags": [
+                {
+                    "title": "Website"
+                },
+                {
+                    "title": "React"
+                }
+            ]
+        },
+        {
+            "title": "Elevator",
+            "link": "https://github.com/AliNazariii/Elevator",
+            "date": "(Autumn 2018)",
+            "description": "It was the final project of our Logical Circuit course at AUT. <br />First, we think as a group to design an efficient FSM (finite state machine) for movement and also the management of the elevator.",
+            "repo": "https://github.com/AliNazariii/Elevator",
+            "tags": [
+                {
+                    "title": "Hardware Simulation"
+                },
+                {
+                    "title": "Verilog"
+                },
+                {
+                    "title": "FSM"
+                }
+            ]
+        },
+        {
+            "title": "ProGViz",
+            "link": "https://github.com/AliNazariii/progviz",
+            "date": "(Summer 2018)",
+            "description": "First I should say that this project was unsuccessful but I did my tasks as a client-side developer whose task was to develop a web-based application. I developed it just by HTML and CSS and in the end, I create a desktop application by integrating Electron.JS. <br /> ProGViz is a cross-platform graph-visualization desktop-application for visualizing well-known graphical representations of computer program source code such as CFGs, PDGs, ASTs, etc. <br /> It was an internal project by a group of students of Amirkabir University of Technology, as a sub-project of the Ph.D. thesis of <a href='http://linkedin.com/in/smghaffarian'>Seyed Mohammad Ghaffarian</a>. ",
+            "repo": "https://github.com/AliNazariii/progviz",
+            "tags": [
+                {
+                    "title": "Electron Web Application"
+                }
+            ]
+        },
+        {
+            "title": "Game of Tanks",
+            "link": "https://github.com/AliNazariii/Game-Of-Tanks",
+            "date": "(Summer 2018)",
+            "description": "A 2D java game containing both single-player & multiplayer modes. The player spawns with a tank and its mission is to eliminate all enemies on the map. <br /> The project is based on Buffer-Strategy implementation. It was our Advanced Programming final project and I implemented it with <a href='https://github.com/Amirhossein-Hediehloo'>AmirHosein Hediehloo</a>.",
+            "repo": "https://github.com/AliNazariii/Game-Of-Tanks",
+            "tags": [
+                {
+                    "title": "2D Game"
+                },
+                {
+                    "title": "Java"
+                }
+            ]
+        },
+        {
+            "title": "JDM (Java Download Manager)",
+            "link": "https://github.com/AliNazariii/Download-Manager",
+            "date": "(Spring 2018)",
+            "description": "It was a download manager as our Advanced Programming mid-term project. <br /> We want to learn swing and some basic concepts of networking through this project. Its UI was approximately a copy of EagleGet download manager.",
+            "repo": "https://github.com/AliNazariii/Download-Manager",
+            "tags": [
+                {
+                    "title": "Desktop Application"
+                },
+                {
+                    "title": "Java"
+                }
+            ]
+        },
+        {
+            "title": "Battle Ship",
+            "link": "https://github.com/AliNazariii/Battle-Ship-Game",
+            "date": "(Spring 2018)",
+            "description": "A 2D java game containing both single-player & multiplayer modes. It hadn't UI and you should play through console. <br /> It was one of our exercises in the Advanced Programming course. We learned Object Oriented Programming in it.",
+            "repo": "https://github.com/AliNazariii/Battle-Ship-Game",
+            "tags": [
+                {
+                    "title": "Console Game"
+                },
+                {
+                    "title": "Java"
+                }
+            ]
+        },
+        {
+            "title": "Hangman",
+            "link": "https://github.com/AliNazariii/Hangman-Game",
+            "date": "(Autumn 2017)",
+            "description": "Hangman was our final project in the Fundamentals of Programming course in the first semester of the university. <br /> It was a game that provides some words and you should guess that word. If you guess a wrong character, you see a man that was drowning more and more in the console.",
+            "repo": "https://github.com/AliNazariii/Hangman-Game",
+            "tags": [
+                {
+                    "title": "Console Game"
+                },
+                {
+                    "title": "C"
+                },
+                {
+                    "title": "Pointer"
+                }
+            ]
+        }
+    ],
+    "skills": [
+
+    ],
+    "work": [
+
+    ]
+}
